@@ -31,7 +31,6 @@ Open a Colab notebook and run these setup cells first:
 ```python
 !git clone https://github.com/ceng313-2026/GROUP66_CENG313.git /content/GROUP66_CENG313
 %cd /content/GROUP66_CENG313
-!pip install -r requirements.txt
 ```
 
 Upload or copy the downloaded competition data into
